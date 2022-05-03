@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+
 namespace StudentManagementCLI
 {
     public class StudentManager
@@ -93,7 +94,6 @@ namespace StudentManagementCLI
             }
             return s;
         }
-
 
     }
 }

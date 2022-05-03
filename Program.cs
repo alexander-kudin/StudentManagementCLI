@@ -15,7 +15,7 @@ namespace StudentManagementCLI
     {
         static StudentManager studentManager;
 
-        // MAIN (init Stident Manager and add dummy data in it)
+        // MAIN (init Student Manager and add dummy data in it)
         public static void Main(string[] args)
         {
             studentManager = new StudentManager(1, 99);
